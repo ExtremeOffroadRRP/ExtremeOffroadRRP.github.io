@@ -20,8 +20,13 @@
       "webhook": "https://ptb.discord.com/api/webhooks/1363230903719166276/4wbI12nlTkkaFR0O_wtctAi7O4wl6squmwEGwksW5PeNK3jpXBN0cUpnzc4Sgc-tJXvU"
     },
     {
+      "name": "SAMS",
+      "webhook": "https://ptb.discord.com/api/webhooks/1363230903719166276/4wbI12nlTkkaFR0O_wtctAi7O4wl6squmwEGwksW5PeNK3jpXBN0cUpnzc4Sgc-tJXvU"
+    },
+    {
       "name": "Civillian",
       "webhook": "https://ptb.discord.com/api/webhooks/1360469637028122710/3CKW10YRl16kDgIieIThBfkXVDXig0AzeiCWeBFyFMsofOzBen6HXhzGg_f996bZ0aBX"
     }
   ]
+
   
